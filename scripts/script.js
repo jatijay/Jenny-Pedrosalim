@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Paradise",
           artist: "Bazzi",
-          cover: "img/Paradise.jpg",
+          cover: "img/paradise.jpg",
           source: "mp3/Paradise.mp3",
           url: "https://www.youtube.com/watch?v=x90WLRa5uGo",
           favorited: true
